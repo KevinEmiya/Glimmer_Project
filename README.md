@@ -6,5 +6,6 @@ Glimmer_Project
 这里是存放临时存档的地方，或许以后会放一些原创脚本什么的..
 总之txt文档肯定剧透严重，还没玩过游戏本体的话请慎入。
 
-current work state: - Glimmer Shorea Robusta alpha version \n
+current work state: - Glimmer Shorea Robusta alpha version
+
                     - Glimmer Fatal Guise character settings
