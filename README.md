@@ -8,6 +8,4 @@ Glimmer_Project
 
 current work state: 
 
-- Glimmer Shorea Robusta alpha version
-
-- Glimmer Fatal Guise character settings
+- Glimmer Fatal Guise system construction
